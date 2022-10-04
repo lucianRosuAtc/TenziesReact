@@ -1,4 +1,7 @@
 # TenziesReact
+You could see this online at:
+
+https://tenzies-react-vite.netlify.app/
 
 In the project directory, you can run:
 
