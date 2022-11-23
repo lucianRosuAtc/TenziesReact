@@ -7,5 +7,5 @@ Thank you for visiting my GitHub profile.
 
 
 
-More Info about React at:
+You can find more info about React at:
 https://vitejs.dev/guide/#scaffolding-your-first-vite-project
