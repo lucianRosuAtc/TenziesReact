@@ -5,20 +5,19 @@ https://tenzies-react-vite.netlify.app
 
 
 
-
+*
+*
+*
+*
 Thank you for visiting my GitHub profile.
 
 ******************************************
 
 
-
-
-
-
 You can find more info about React at:
 https://vitejs.dev/guide/#scaffolding-your-first-vite-project
-
-
+*
+*
 
 ![Tenzies](https://user-images.githubusercontent.com/91092822/203848202-2c0c20b9-2354-4979-85fd-fe4e0a5a5818.PNG)
 
