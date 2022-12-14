@@ -4,11 +4,6 @@ You could see this online at:
 https://tenzies-react-vite.netlify.app
 
 
-
-*
-*
-*
-*
 Thank you for visiting my GitHub profile.
 
 ******************************************
